@@ -2,13 +2,13 @@
 
 DESCRIPTION:
 
-TYNDALE is a free HTML website template built for digital studios and agencies. A modern, 
+Paviment is a free HTML website template built for digital studios and agencies. A modern, 
 attractive, one-page template packed with features for building responsive websites that would 
 stand out from the average. The features that come with this template also allows it to be 
 versatile so aside from agencies, it can also be used for other purposes such as portfolio, 
 business, personal websites, among others. Another thing you would love about this template 
 is its clean, organized, well-commented code which makes it easy to modify and customize. If 
-you need to craft a stunning online presence, TYNDALE is the perfect tool that can help do 
+you need to craft a stunning online presence, Paviment is the perfect tool that can help do 
 the job.
 
 ==================================================================================================
@@ -73,7 +73,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since TYNDALE is distributed for free, support is not offered. TYNDALE is coded according 
+Since Paviment is distributed for free, support is not offered. Paviment is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
